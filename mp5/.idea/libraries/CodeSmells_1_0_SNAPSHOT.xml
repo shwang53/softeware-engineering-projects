@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CodeSmells-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Modified/CodeSmells/target/CodeSmells-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

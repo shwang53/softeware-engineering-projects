@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CodeSmells">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Modified/CodeSmells.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

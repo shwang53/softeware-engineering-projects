@@ -1,0 +1,11 @@
+# Directory
+target/
+
+
+# File extension
+*.class
+
+# File
+.classpath
+.project
+.settings
